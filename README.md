@@ -1,14 +1,10 @@
-# EXPERIMENT-02-INTERFACING-A-DIGITAL-INPUT-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
-
-
-**DATE:** 12-05-2026
+# EXPERIMENT 02 INTERFACING A DIGITAL INPUT OUTPUT TO IOT DEVELOPMENT BOARD
 
 **NAME:** Viswa Prakaash N J
 
 **ROLL NO:** 212223040246
 
-**DEPARTMENT:** CSE
-
+**DEPARTMENT:** B.E(CSE)
 ## Aim
 
 To Interface a Digital Input (IR pair ) to ARM IOT development board and write a program to obtain the data
@@ -215,7 +211,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
+### Light Off - No Obstacle
+
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/69849170-a148-4b2f-910c-04f08403270a" />
+
+
+### Light On - Yes Obstacle
+
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/43280229-8a9a-43ba-8c08-42d62fd2fe81" />
 
 
